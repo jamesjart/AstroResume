@@ -313,7 +313,7 @@
     {
       "name": "Part Piper",
       "image": {
-        "url": "/partpiperlogin.webp",
+        "url": "/partpiper.webp",
         "position": "container",
         "dark": "/partpiperlogin.webp"
       },
