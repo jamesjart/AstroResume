@@ -6,7 +6,7 @@
     "label": "Artist | Designer | Generalist",
     "image": "/avatar.webp",
     "email": "jamesjenningsart@gmail.com",
-    "url": "https://www.gcxstudio.cn",
+    "url": "https://www.jamesjart.space/",
     "summary": "Versatile designer with a strong foundation in technology and fine art. Currently a demonstration artist at Colart where I teach techniques and inspire creativity.",
     "theme": "red",
     "location": {
@@ -296,9 +296,9 @@
     {
       "name": "Fine Art Website",
       "image": {
-        "url": "/public/ArtSiteLanding.webp",
+        "url": "/ArtSiteLanding.webp",
         "position": "container",
-        "dark": "/public/ArtSiteLanding.webp"
+        "dark": "/ArtSiteLanding.webp"
       },
       "isActive": true,
       "description": "E-Commerce fine art website I made to show case my oil paintings.",
@@ -313,9 +313,9 @@
     {
       "name": "Part Piper",
       "image": {
-        "url": "/public/partpiperlogin.webp",
+        "url": "/partpiperlogin.webp",
         "position": "container",
-        "dark": "/public/partpiperlogin.webp"
+        "dark": "/partpiperlogin.webp"
       },
       "isActive": false,
       "description": "On going passion project, creating a auto part management application.",
@@ -329,9 +329,9 @@
     {
       "name": "Art Blog",
       "image": {
-        "url": "/public/Adrien-Louis Demont - Don Quichotte - 1893.jpg",
+        "url": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg",
         "position": "container",
-        "dark": "/public/Adrien-Louis Demont - Don Quichotte - 1893.jpg"
+        "dark": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg"
       },
       "isActive": false,
       "description": "Blog learning project using the MERN stack and AWS.",
@@ -344,9 +344,9 @@
     {
       "name": "Past Professional UI/UX Projects",
       "image": {
-        "url": "/public/InstantKPIs.webp",
+        "url": "/InstantKPIs.webp",
         "position": "container",
-        "dark": "/public/InstantKPIs.webp"
+        "dark": "/InstantKPIs.webp"
       },
       "isActive": true,
       "description": "Document I've prepared showcasing some of my past design work.",
