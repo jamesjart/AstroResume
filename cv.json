@@ -2,192 +2,220 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
-    "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
+    "name": "James Jennings",
+    "label": "Artist | Designer | Generalist",
+    "image": "/avatar.webp",
+    "email": "jamesjenningsart@gmail.com",
     "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "summary": "Versatile designer with a strong foundation in technology and fine art. Currently a demonstration artist at Colart where I teach techniques and inspire creativity.",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "region": "California | British Columbia"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "james-jennings-964402a2",
+        "url": "https://www.linkedin.com/in/james-jennings-964402a2/"
       },
       {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
+        "username": "jamesjart",
+        "url": "https://www.instagram.com/jamesjart/"
       },
       {
-        "network": "GitHub",
-        "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "network": "My Website",
+        "icon": "ri:paint-brush-fill",
+        "url": "https://www.jamesjart.com/"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
   "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "intro": "Some of my favorite oil paintings I've done.",
     "list": [
       {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
+        "image": "https://cdn.prod.website-files.com/6757244063bf83a485d74f21/679ebe4a0c244a5f500dc8c2_James-Jennings-Blue.jpg",
+        "alt": "Blue - JamesJart",
+        "desc": "Small painting of my Great Dane Blue. Oil on panel 12x12 in. 💙🐶"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
+        "image": "https://cdn.prod.website-files.com/6757244063bf83a485d74f21/6757aa971c6453446d16aa0f_RobiJart.jpg",
+        "alt": "My Fiance - JamesJart",
+        "desc": "Oldish painting I did of my fiance. Oil on panel 18x24 in.  🥰"
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
+        "image": "https://cdn.prod.website-files.com/6757244063bf83a485d74f21/6757ab45bb324fdb6e6b6dfe_DualityJart.jpg",
+        "alt": "Duality - JamesJart",
+        "desc": "The largest work I've done so far. Duality - oil on panel 40x40 in."
       },
       {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
+        "image": "https://cdn.prod.website-files.com/6757244063bf83a485d74f21/679ebf0073270bba287955da_James-Jennings-AllaPrimaMoo.jpg",
+        "alt": "Moo - JamesJart",
+        "desc": "All Prima painting of a cow. Oil on panel 12x12 in. 🐄"
       }
     ]
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "institution": "College of Charleston",
+      "area": "Bachelor of Science, Computer Information Systems",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016",
+      "endDate": "2019"
     }
   ],
-  "certificates": [
-    {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
-    }
-  ],
+  "certificates": [],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
+      "name": "Colart",
+      "position": "Demonstration Artist: Winsor & Newton Ambassador",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
+      "location": "New Jersey",
+      "url": "https://drive.google.com/file/d/1YRwjgFX8V-VRzMROqeptnQCOjEeVvQgP/view?usp=drive_link",
+      "startDate": "2024-01-015",
       "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
-      "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
-      ],
+      "summary": "Teaching fellow artists the usage of materials, painting theory, and workflows.",
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Assists with product management and marketing to promote sales opportunities.",
+        "Creates engaging  lesson plans and demonstrations for art techniques and painting theory."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Developes education programs using Winsor & Newton materials for live demonstrations, enabling clear visualization of painting techniques and increasing workshop participation."
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "OBS": "simple-icons:obsstudio",
+        "Adobe Suite": "mdi:adobe",
+        "Monday.com": "",
+        "SAP Concur": "",
+        "Education": "mdi:book-open-blank-variant",
+        "Lession Planning": "mdi:book-variant-multiple",
+        "Painting Theory": "mdi:format-paint",
+        "Color Theory": "mdi:format-color",
+        "Notion": "ri:notion-fill"
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
+      "name": "IndySoft",
+      "position": "Digital Designer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": [
-        "Completed 95% of project content."
-      ],
+      "location": "Charleston, SC",
+      "startDate": "2024-01-10",
+      "endDate": "2025-01-15",
+      "summary": "Created scalable user experiences across web, mobile apps, emails, and landing pages.",
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Created compelling content for various marketing channels including newsletters, print material, and videos.",
+        "Analyzed campaign performance using analytic tools.",
+        "collaborated with cross functional teams and contribute to product strategy in a fast-paced, evolving environment"
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        " Led Usability Testing on 4+ digital products over a 12-month period using Figma prototypes and Optimal Workshop, identifying and resolving over UX issues to improve user satisfaction  across web and mobile platforms."
       ],
       "skills": {
+        "Webflow": "simple-icons:webflow",
+        "Figma": "simple-icons:figma",
         "HTML": "simple-icons:html5",
         "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
+
         "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "Adobe Suite": "mdi:adobe",
+        "Jira": "mdi:jira",
+        "HubSpot": "simple-icons:hubspot",
+        "MS Office": "simple-icons:microsoftoffice",
+        "Canva": "simple-icons:canva",
+        "Miro": "simple-icons:miro"
+      }
+    },
+    {
+      "name": "Netrist Solutions",
+      "position": "UI/UX Designer",
+      "location_type": "Remote",
+      "location": "Charleston, SC",
+      "startDate": "2023-01-05",
+      "endDate": "2024-01-20",
+      "summary": "Works closely with cross-functional teams, including product managers, developers, and other designers.",
+      "responsibilities": [
+        "Defining and designing interactive elements, animations, and micro-interactions.",
+        "Contribute to product strategy by identifying opportunities for design-led innovation",
+        "Created high-fidelity mockups in Figma for mobile and web applications over 12 months, expediting user feedback cycles by  and supporting cross-functional sprint deliverables aligned with business KPIs."
+      ],
+      "achievements": [
+        "Developed wireframes using Figma for cross-platform project, ensuring 100% alignment with user flows and accelerating the design approval process to a weekly basis."
+      ],
+      "skills": {
+        "Figma": "simple-icons:figma",
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+
+        "Angular": "mdi:angularjs",
+        "Adobe Suite": "mdi:adobe",
+        "Jira": "mdi:jira",
+        "Google Analytics": "simple-icons:googleanalytics",
+        "MS Firebase": "mdi:firebase"
+      }
+    },
+    {
+      "name": "Kiawah Island Community Association",
+      "position": "Information Systems Analyst",
+      "location_type": "Remote",
+      "location": "Charleston, SC",
+      "startDate": "2017-09-05",
+      "endDate": "2022-04-05",
+      "summary": "Administered I.T. services to: firewalls & security software, databases, networking tools, server message block, and server deployment/management.",
+      "responsibilities": [
+        "Mapped processes to holistically examine business flow and identify improvement opportunities.",
+        "Used strong interpersonal skills to assist clients and train them on technology assets in a nonprofit environment."
+      ],
+      "achievements": [
+        "Working with internal and external teams, helped secure IT infastructure after a ransomware attack and assisted in implementing new security protocols."
+      ],
+      "skills": {
+        "Wireshark": "simple-icons:wireshark",
+        "VMware": "simple-icons:vmware",
+        "GoTo Assist": "simple-icons:gotomeeting",
+        "AWS": "mdi:aws",
+        "Spiceworks": "",
+        "CrowdStrike": ""
       }
     }
   ],
   "skills": [
     {
+      "name": "Figma",
+      "icon": "simple-icons:figma",
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend", "Design"]
+    },
+    {
+      "name": "Adobe Suite",
+      "icon": "mdi:adobe",
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend", "Design"]
+    },
+    {
+      "name": "Jira",
+      "icon": "mdi:jira",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Design"]
+    },
+    {
       "name": "HTML",
       "icon": "simple-icons:html5",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -201,334 +229,133 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "name": "Webflow",
+      "icon": "simple-icons:webflow",
+      "level": "Advance",
+      "keywords": ["Web Development"]
     },
     {
       "name": "Node",
       "icon": "ri:nodejs-line",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "SQL",
-      "icon": "simple-icons:mysql",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "MongoDB",
       "icon": "simple-icons:mongodb",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "icon": "mdi:git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Databases", "File", "Data Storage", "Backend"]
     },
     {
       "name": "GitHub",
       "icon": "mdi:github",
-      "level": "Expert",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "level": "",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "React",
       "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "level": "",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
+      "keywords": ["Virtual Environments", "Backend"]
     },
     {
       "name": "Vite",
       "icon": "simple-icons:vite",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
+      "keywords": ["Web Development", "Frontend", "Build Tool"]
     },
     {
       "name": "Astro",
       "icon": "simple-icons:astro",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
     },
     {
       "name": "Vercel",
       "icon": "simple-icons:vercel",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "Netlify",
       "icon": "simple-icons:netlify",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     }
   ],
-  "languages": [
-    {
-      "language": "Chinese",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "MiraHikari",
-      "reference": "Reference…"
-    }
-  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Fine Art Website",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "/public/ArtSiteLanding.webp",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "/public/ArtSiteLanding.webp"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "E-Commerce fine art website I made to show case my oil paintings.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "Implement intuitive navigation and information architecture",
+        "Created CMS collections for shop and works.",
+        "Integrated motion rich animations and designs."
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "url": "https://www.jamesjart.com/",
+      "github": ""
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "Part Piper",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "/public/partpiperlogin.webp",
+        "position": "container",
+        "dark": "/public/partpiperlogin.webp"
       },
       "isActive": false,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "On going passion project, creating a auto part management application.",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "Based using the MERN Stack.",
+        "Barcode scanning capabilities",
+        "Designed using TailwindCSS."
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": ""
+    },
+    {
+      "name": "Art Blog",
+      "image": {
+        "url": "/public/Adrien-Louis Demont - Don Quichotte - 1893.jpg",
+        "position": "container",
+        "dark": "/public/Adrien-Louis Demont - Don Quichotte - 1893.jpg"
+      },
+      "isActive": false,
+      "description": "Blog learning project using the MERN stack and AWS.",
+      "highlights": [
+        "Made using MERN, vite, TailwindCSS and hosted on AWS",
+        "Github repo coming soon"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Past Professional UI/UX Projects",
+      "image": {
+        "url": "/public/InstantKPIs.webp",
+        "position": "container",
+        "dark": "/public/InstantKPIs.webp"
+      },
+      "isActive": true,
+      "description": "Document I've prepared showcasing some of my past design work.",
+      "highlights": [
+        "Showcases three different design projects.",
+        "Examples of mobile, web, and physical designs.",
+        "Created design systems/branding."
+      ],
+      "url": "https://drive.google.com/file/d/1L2RTA8hUcVWDfbqJyP4yG1RjN4zki0fd/view?usp=drive_link"
     }
   ]
 }
