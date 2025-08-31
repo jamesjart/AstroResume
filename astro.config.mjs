@@ -25,7 +25,7 @@ export default defineConfig({
       },
     }),
   ],
-
+  output: "static",
   adapter: vercel({
     imageService: true,
   }),
