@@ -329,9 +329,9 @@
     {
       "name": "Part Piper",
       "image": {
-        "url": "/PartPaperLogin.webp",
+        "url": "/partpiper2.jpg",
         "position": "container",
-        "dark": "/PartPaperLogin.webp"
+        "dark": "/partpiper2.jpg"
       },
       "isActive": true,
       "description": "On going personal project, making a auto part management system",
@@ -339,6 +339,22 @@
         "Barcode scanner using React.",
         "MongoDB Compass for database management",
         "Handles generating reports and tracking parts"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Art Blog",
+      "image": {
+        "url": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg",
+        "position": "container",
+        "dark": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg"
+      },
+      "isActive": true,
+      "description": "Art Blog where users can sign up and make post.",
+      "highlights": [
+        "Made using MERN stack",
+        "Responsive front-end design using TailwindCSS.",
+        "Hosted using AWS"
       ],
       "url": ""
     }
