@@ -340,6 +340,21 @@
         "Created design systems/branding."
       ],
       "url": "https://drive.google.com/file/d/1L2RTA8hUcVWDfbqJyP4yG1RjN4zki0fd/view?usp=drive_link"
+    },
+    {
+      "name": "Art Blog",
+      "image": {
+        "url": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg",
+        "position": "container",
+        "dark": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg"
+      },
+      "isActive": false,
+      "description": "Blog learning project using the MERN stack and AWS.",
+      "highlights": [
+        "Made using MERN, vite, TailwindCSS and hosted on AWS",
+        "Github repo coming soon"
+      ],
+      "url": ""
     }
   ]
 }
