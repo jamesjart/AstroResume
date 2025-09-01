@@ -313,9 +313,9 @@
     {
       "name": "Part Piper",
       "image": {
-        "url": "/partpiperlogin.webp",
+        "url": "/PartPiperLogin.webp",
         "position": "container",
-        "dark": "/partpiperlogin.webp"
+        "dark": "/PartPiperLogin.webp"
       },
       "isActive": false,
       "description": "On going passion project, creating a auto part management application.",

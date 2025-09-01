@@ -4,8 +4,6 @@ import tailwind from "@astrojs/tailwind";
 import astroIcon from "astro-icon";
 import playformCompress from "@playform/compress";
 
-import vercel from "@astrojs/vercel/serverless";
-
 // https://astro.build/config
 export default defineConfig({
   integrations: [
@@ -25,8 +23,4 @@ export default defineConfig({
       },
     }),
   ],
-  output: "static",
-  adapter: vercel({
-    imageService: true,
-  }),
 });
