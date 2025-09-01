@@ -311,22 +311,6 @@
       "github": ""
     },
     {
-      "name": "Part Piper",
-      "image": {
-        "url": "/PartPiperLogin.webp",
-        "position": "container",
-        "dark": "/PartPiperLogin.webp"
-      },
-      "isActive": false,
-      "description": "On going passion project, creating a auto part management application.",
-      "highlights": [
-        "Based using the MERN Stack.",
-        "Barcode scanning capabilities",
-        "Designed using TailwindCSS."
-      ],
-      "url": ""
-    },
-    {
       "name": "Art Blog",
       "image": {
         "url": "/Adrien-Louis Demont - Don Quichotte - 1893.jpg",
