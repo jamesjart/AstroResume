@@ -26,6 +26,12 @@
         "url": "https://www.instagram.com/jamesjart/"
       },
       {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "Jamesjart",
+        "url": "https://github.com/jamesjart"
+      },
+      {
         "network": "My Website",
         "icon": "ri:paint-brush-fill",
         "url": "https://www.jamesjart.com/"
@@ -82,7 +88,7 @@
         "Creates engaging  lesson plans and demonstrations for art techniques and painting theory."
       ],
       "achievements": [
-        "Developes education programs using Winsor & Newton materials for live demonstrations, enabling clear visualization of painting techniques and increasing workshop participation."
+        "Develops education programs using Winsor & Newton materials for live demonstrations, enabling clear visualization of painting techniques and increasing workshop participation."
       ],
       "skills": {
         "OBS": "simple-icons:obsstudio",
@@ -303,7 +309,7 @@
       "isActive": true,
       "description": "E-Commerce fine art website I made to show case my oil paintings.",
       "highlights": [
-        "Implement intuitive navigation and information architecture",
+        "Implement intuitive navigation and information architecture.",
         "Created CMS collections for shop and works.",
         "Integrated motion rich animations and designs."
       ],
