@@ -75,6 +75,28 @@
   "certificates": [],
   "work": [
     {
+      "name": "Vernon Public Art Gallery",
+      "position": "Administration & Fund Developement Coordinator",
+      "location_type": "On-Site",
+      "location": "Vernon, British Columbia",
+      "startDate": "2026-03-010",
+      "endDate": null,
+      "summary": "Provide a standard of excellence in administration, fundraising, and community engagement to support the gallery's mission of promoting and exhibiting contemporary art.",
+      "responsibilities": [
+        "Provide administrative support to the gallery director and gallery operations.", 
+        "Maintain and manage accurate database of donors, sponsors, and members using CRM software.",
+        "Achieve funding goals through targeted sales activities and consitent stwardship in all areas of membership, sponsorship, and fundraising."
+      ],
+      "skills": {
+        "CRM Tools": "",
+        "Adobe Suite": "mdi:adobe",
+        "Monday.com": "",
+        "MailChimp": "",
+        "WordPress": "mdi:wordpress",
+        "Micosoft 365": "mdi:microsoft"
+      }
+    }
+    ,{
       "name": "Colart",
       "position": "Demonstration Artist: Winsor & Newton Ambassador",
       "location_type": "Remote",
@@ -296,7 +318,20 @@
     }
   ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Plein Air Painting",
+      "keywords": ["Oil Painting", "Color Theory", "Composition", "Art History"]
+    },
+    {
+      "name": "Micro Controller Programming",
+      "keywords": ["Arduino", "Raspberry Pi", "Pyton"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["Frontend", "Backend", "Fullstack", "Responsive Design"]
+    }
+  ],
   "references": [],
   "projects": [
     {
